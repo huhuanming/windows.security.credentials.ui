@@ -3,6 +3,7 @@
   "version": "0.1.7",
   "description": "Use the Windows.Security.Credentials.UI UWP API directly from Node.js",
   "main": "lib/main.js",
+  "typings": "lib/NodeRT_Windows_Security_Credentials_UI.d.ts",
   "keywords": [
     "Windows.Security.Credentials.UI",
     "Windows",
