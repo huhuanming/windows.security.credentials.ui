@@ -36,6 +36,6 @@
     "MaySoMusician <maysomusician@gmail.com> (https://msmsm.work/)",
 	"DemosJarco <1209494+demosjarco@users.noreply.github.com> (https://github.com/demosjarco)"
   ],
-  "gypfile": true,
+  "gypfile": false,
   "license": "Apache-2.0"
 }
